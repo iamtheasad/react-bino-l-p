@@ -4,7 +4,7 @@
  
 ===============================
 
-- Reactjs
+- React js
 - Bootstrap 4
 - FontAwesome 5
 - HTML5
