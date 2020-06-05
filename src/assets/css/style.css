@@ -224,23 +224,23 @@ nav.navbar.navbar-expand-lg.menu_section {
 }
 
 .header_bg_1 {
-    background-image: url(../images/slider/header_slider_bg_1.jpg);
+    background-image: url(../../assets/image/slider/header_slider_bg_1.jpg);
 }
 
 .header_bg_2 {
-    background-image: url(../images/slider/header_slider_bg_2.jpg);
+    background-image: url(../../assets/image/slider/header_slider_bg_2.jpg);
 }
 
 .header_bg_3 {
-    background-image: url(../images/slider/header_slider_bg_3.jpg);
+    background-image: url(../../assets/image/slider/header_slider_bg_3.jpg);
 }
 
 .header_bg_4 {
-    background-image: url(../images/slider/header_slider_bg_4.jpg);
+    background-image: url(../../assets/image/slider/header_slider_bg_4.jpg);
 }
 
 .header_bg_5 {
-    background-image: url(../images/slider/header_slider_bg_5.jpg);
+    background-image: url(../../assets/image/slider/header_slider_bg_5.jpg);
 }
 
 .single_slide_item {
@@ -758,7 +758,7 @@ a.history_btn:hover {
 }
 
 .services:after {
-    background-image: url(../images/services/our_services_bg.jpg);
+    background-image: url(../../assets/image/services/our_services_bg.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1117,7 +1117,7 @@ a.history_btn:hover {
 }
 
 .case_study_bg {
-    background-image: url(../images/case_study_bg.jpg);
+    background-image: url(../../assets/image/case_study_bg.jpg);
     height: 45.125rem;
     position: absolute;
     content: '';
@@ -1307,7 +1307,7 @@ a.case_study_btn:hover,
 }
 
 .statistics_bg {
-    background-image: url(../images/statistics_bg.jpg);
+    background-image: url(../../assets/image/statistics_bg.jpg);
     background-color: #999999;
 }
 
@@ -1538,7 +1538,7 @@ a.pricing_btn {
 ***************************************/
 
 .our_team_bg {
-    background-image: url(../images/team/teame_bg.jpg);
+    background-image: url(../../assets/image/team/teame_bg.jpg);
     overflow: hidden;
     height: 46.5rem;
 }
@@ -1561,7 +1561,7 @@ a.pricing_btn {
 }
 
 .our_team_transparent_bg {
-    background-image: url(../images/team/team_transparent_bg.png);
+    background-image: url(../../assets/image/team/team_transparent_bg.png);
     position: absolute;
     bottom: -7%;
     left: 0%;
@@ -2042,7 +2042,7 @@ a.pricing_btn {
 .footer_action {
     padding-top: 9.375rem;
     padding-bottom: 8.75rem;
-    background-image: url(../images/footer_action_bg.jpg);
+    background-image: url(../../assets/image/footer_action_bg.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;

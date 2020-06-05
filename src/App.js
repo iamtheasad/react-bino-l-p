@@ -1,9 +1,10 @@
 import React, {Fragment} from 'react';
+import HomePage from "./Pages/HomePage";
 
 function App() {
     return (
         <Fragment>
-            <h1>Hello Rana</h1>
+            <HomePage/>
         </Fragment>
     );
 }
