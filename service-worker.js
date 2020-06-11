@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-bino-l-p/precache-manifest.5d81fd260c90d593cbf16a3ad3d95104.js"
+  "/react-bino-l-p/precache-manifest.4c6f7e4dfbdb57d70f3171fc7eb62a30.js"
 );
 
 self.addEventListener('message', (event) => {
