@@ -7,8 +7,9 @@ import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faAnchor, faChevronLeft, faChevronRight} from "@fortawesome/free-solid-svg-icons";
+import {faAnchor} from "@fortawesome/free-solid-svg-icons";
 import '../../assets/css/animate.min.css';
+
 
 
 class TopBanner extends Component {
@@ -23,9 +24,9 @@ class TopBanner extends Component {
                                  nav={true}
                                  dots={false}
                                  autoplay={true}
-
                                  animateIn={'bounceInRight'}
                                  animateOut={'bounceOutLeft'}
+                                 navText={['<i class="fas fa-chevron-left"></i>', '<i class="fas fa-chevron-right"></i>']}
                                  className="header_slider owl-carousel owl-theme">
                         <div className="single_slide_item header_bg_1">
                             <div className="container-fluid">
