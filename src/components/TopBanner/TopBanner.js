@@ -8,13 +8,12 @@ import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faAnchor, faChevronLeft, faChevronRight} from "@fortawesome/free-solid-svg-icons";
-
+import '../../assets/css/animate.min.css';
 
 
 class TopBanner extends Component {
+
     render() {
-
-
         return (
             <>
                 {/* Header Section Start */}
@@ -23,6 +22,10 @@ class TopBanner extends Component {
                                  loop={true}
                                  nav={true}
                                  dots={false}
+                                 autoplay={true}
+
+                                 animateIn={'bounceInRight'}
+                                 animateOut={'bounceOutLeft'}
                                  className="header_slider owl-carousel owl-theme">
                         <div className="single_slide_item header_bg_1">
                             <div className="container-fluid">
