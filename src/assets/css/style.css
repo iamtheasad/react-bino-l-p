@@ -437,6 +437,8 @@ nav.navbar.navbar-expand-lg.menu_section {
 .header_btn a:hover {
     background: #E74C3C;
     border: 0.125rem solid #E74C3C;
+    text-decoration: none;
+    color: #fff;
 }
 
 .header_bars {

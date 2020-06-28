@@ -1,8 +1,4 @@
 import React, {Component, Fragment} from 'react';
-import '../../assets/css/responsive.css';
-import '../../assets/css/style.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.min';
 import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
