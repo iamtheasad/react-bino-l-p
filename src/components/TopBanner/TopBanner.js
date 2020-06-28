@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, {Component, Fragment} from 'react';
 import '../../assets/css/responsive.css';
 import '../../assets/css/style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -16,7 +16,7 @@ class TopBanner extends Component {
 
     render() {
         return (
-            <>
+            <Fragment>
                 {/* Header Section Start */}
                 <section className="custom_width">
                     <OwlCarousel items={1}
@@ -220,7 +220,7 @@ class TopBanner extends Component {
                     {/* header_slider / */}
                 </section>
                 {/* Header Section End */}
-            </>
+            </Fragment>
         );
     }
 }
