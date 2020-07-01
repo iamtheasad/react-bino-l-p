@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc06b3dd17cdc489aeef3199552ec8d0",
+    "revision": "c02d884c213e64aea37be44947933e92",
     "url": "/react-bino-l-p/index.html"
   },
   {
-    "revision": "97db0dae5b71b2761714",
+    "revision": "590ca11b7a6f393cd67a",
     "url": "/react-bino-l-p/static/css/2.95b3a364.chunk.css"
   },
   {
-    "revision": "8eabd6f291cf99990042",
-    "url": "/react-bino-l-p/static/css/main.06f1d68c.chunk.css"
+    "revision": "184e0a7e6cf4dc54318c",
+    "url": "/react-bino-l-p/static/css/main.e6fae97a.chunk.css"
   },
   {
-    "revision": "97db0dae5b71b2761714",
-    "url": "/react-bino-l-p/static/js/2.2e3599c7.chunk.js"
+    "revision": "590ca11b7a6f393cd67a",
+    "url": "/react-bino-l-p/static/js/2.637f9a7f.chunk.js"
   },
   {
     "revision": "dd62a1b00461ad87031c6815caac8dc1",
-    "url": "/react-bino-l-p/static/js/2.2e3599c7.chunk.js.LICENSE.txt"
+    "url": "/react-bino-l-p/static/js/2.637f9a7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8eabd6f291cf99990042",
-    "url": "/react-bino-l-p/static/js/main.09c13612.chunk.js"
+    "revision": "184e0a7e6cf4dc54318c",
+    "url": "/react-bino-l-p/static/js/main.27ae9b73.chunk.js"
   },
   {
     "revision": "9ec9eb9e01ef7e8e5f93",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eca1a1ac8e97e2f682803f4ac8360982",
     "url": "/react-bino-l-p/static/media/header_slider_bg_5.eca1a1ac.jpg"
+  },
+  {
+    "revision": "87c7032d4e7e5f8d798bc2be5d05d4ed",
+    "url": "/react-bino-l-p/static/media/history.87c7032d.png"
   },
   {
     "revision": "02e2ebaa7cc59a989c662c097670f012",
