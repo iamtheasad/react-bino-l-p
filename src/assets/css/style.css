@@ -719,7 +719,8 @@ nav.navbar.navbar-expand-lg.menu_section {
 
 .history_text p {
     font-weight: 500;
-    letter-spacing: 0.0187rem;
+    letter-spacing: 0.0287rem;
+    font-size: 13px;
 }
 
 a.history_btn {
@@ -742,6 +743,8 @@ a.history_btn {
 
 a.history_btn:hover {
     background: #d63e2e;
+    color: #fff;
+    text-decoration: none;
 }
 
 /************************************** 
