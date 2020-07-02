@@ -3,6 +3,7 @@ import TopBanner from "../components/TopBanner/TopBanner";
 import TopNavigation from "../components/TopNavigation/TopNavigation";
 import Testimonial from '../components/Testimonial/Testimonial';
 import History from '../components/History/History';
+import Services from '../components/Services/Services';
 
 
 class HomePage extends Component {
@@ -13,6 +14,7 @@ class HomePage extends Component {
                 <TopBanner/>
                 <Testimonial/>
                 <History/>
+                <Services/>
             </Fragment>
         );
     }
