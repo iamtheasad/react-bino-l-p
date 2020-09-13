@@ -4,6 +4,7 @@ import TopNavigation from "../components/TopNavigation/TopNavigation";
 import Testimonial from '../components/Testimonial/Testimonial';
 import History from '../components/History/History';
 import Services from '../components/Services/Services';
+import RecentWork from "../components/RecentWork/RecentWork";
 
 
 class HomePage extends Component {
@@ -15,6 +16,7 @@ class HomePage extends Component {
                 <Testimonial/>
                 <History/>
                 <Services/>
+                <RecentWork/>
             </Fragment>
         );
     }
